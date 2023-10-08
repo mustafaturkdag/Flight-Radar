@@ -7,4 +7,3 @@
 - axios
 - thunk 
 
-## Screen
